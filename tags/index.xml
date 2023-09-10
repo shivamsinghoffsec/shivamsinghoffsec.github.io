@@ -1,7 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Tags - Tag - shivamsinghoffsecblog</title>
+        <title>Tags - Tag - shivamsinghoffsec</title>
         <link>https://shivamsinghoffsec.github.io/tags/</link>
-        <description>Tags - Tag - shivamsinghoffsecblog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://shivamsinghoffsec.github.io/tags/" rel="self" type="application/rss+xml" /></channel>
+        <description>Tags - Tag - shivamsinghoffsec</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>shivamsinghoffsec@proton.me (Shivam Singh)</managingEditor>
+            <webMaster>shivamsinghoffsec@proton.me (Shivam Singh)</webMaster><copyright>shivamsinghoffsec</copyright><atom:link href="https://shivamsinghoffsec.github.io/tags/" rel="self" type="application/rss+xml" /></channel>
 </rss>
